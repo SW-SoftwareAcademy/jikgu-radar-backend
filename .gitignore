@@ -1,0 +1,17 @@
+.gradle/
+build/
+out/
+
+.idea/
+*.iml
+.vscode/
+
+.env
+.env.*
+!.env.example
+src/main/resources/application-local.yml
+
+*.log
+.DS_Store
+Thumbs.db
+
